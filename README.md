@@ -1,2 +1,2 @@
-# MooMoo6576.github.io
+# MooMoo.github.io
 website for project
